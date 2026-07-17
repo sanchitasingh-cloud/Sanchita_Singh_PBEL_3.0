@@ -22,6 +22,7 @@ AI_Driven_Student_Performance_Prediction_System
 student_data.csv
 
 ### Run the Project
+streamlit run Eduvision.py
 
 ### Author
 Sanchita Singh
