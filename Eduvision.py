@@ -59,7 +59,7 @@ st.divider()
 # -------------------------------
 # Project Highlights
 # -------------------------------
-st.subheader("🌟 Why SmartEdu?")
+st.subheader("🌟 Why Eduvision AI?")
 
 left, right = st.columns(2)
 
